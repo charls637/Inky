@@ -1,0 +1,81 @@
+// Color
+
+$lithios-black: #000000;
+$lithios-white: #ffffff;
+$lithios-gray: #f5f5f5;
+$lithios-blue-green: #1c9797;
+$lithios-dark-blue: #243848;
+
+
+body, table.body, h1, h2, h3, h4, h5, h6, p, td, th, a{
+	color:$lithios-dark-blue;
+}
+
+table.container{
+	max-width:580px;
+}
+
+.lithios-black-text{
+	color:$lithios-black;
+}
+
+.lithios-white-text{
+	color:$lithios-white;
+}
+
+.lithios-dark-blue-text{
+	color:$lithios-dark-blue;
+}
+
+.lithios-white-bg{
+	background-color:$lithios-white;
+}
+
+.lithios-gray-bg{
+	background-color:$lithios-gray;
+}
+
+.lithios-blue-green-bg{
+	background-color:$lithios-blue-green;
+	border:3px solid $lithios-blue-green;
+}
+
+.lithios-dark-blue-bg{
+	background-color:$lithios-dark-blue;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+.lithios-header{
+	background:$lithios-blue-green;
+}
+
+
+table.center{
+
+	 table {
+		
+		td{
+			text-align:center !important;
+			a{
+						
+			}
+		}
+	}
+}
+
+table.lithios-blue-green-bg{
+
+	 table {
+		
+		td{
+			background-color:$lithios-blue-green !important;
+			border: 3px solid $lithios-blue-green !important;
+			a{
+						
+			}
+		}
+	}
+}
