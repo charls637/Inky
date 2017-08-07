@@ -1,9 +1,9 @@
 Before doing this steps make sure you have a COMPOSER and Node.js installed.
 
-#ZURB
+# ZURB <br/>
 [Zurb Guide](https://foundation.zurb.com/emails/docs/sass-guide.html)
 
-##My cmd/folder location is wamp64/www/inky. It's an empty folder. We expect that you are running this command under that location.
+## My cmd/folder location is wamp64/www/inky. It's an empty folder. We expect that you are running this command under that location.
 
 1. We'll use the Foundation CLI to set up a new project. If you already have the Foundation CLI installed from Foundation for Sites, you can skip this first command.
 ```shell
@@ -23,7 +23,7 @@ Move into the folder you store your projects in, and then run this command:
 
 4. After those 3 step it will ask you to create a folder for your inky emails, In my side I created lithios folder inside the inky folder.
 
-##Running the Server
+## Running the Server
 1.Change the cmd location to your project folder (example: cd lithios). Then start the server.
 ```shell
   inky\lithios>npm start
@@ -38,4 +38,4 @@ Move into the folder you store your projects in, and then run this command:
 
 3. `dist/`: Your HTML final output, included with the assetes(image and css). This is outside the `src` folder OR located in the root of your project folder name.
 
-##Then you're good to go! Please check the Zurb link above for file structure and coding styles.
+## Then you're good to go! Please check the Zurb link above for file structure and coding styles.
