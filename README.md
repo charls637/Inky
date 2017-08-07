@@ -7,18 +7,18 @@ Before doing this steps make sure you have a COMPOSER and Node.js installed.
 
 1. We'll use the Foundation CLI to set up a new project. If you already have the Foundation CLI installed from Foundation for Sites, you can skip this first command.
 ```shell
-  inky> $ npm install --global foundation-cli
+  inky>npm install --global foundation-cli
 ```
 
 2. (OPTIONAL) If you run into any permission errors (EACCESS) on OS X or Linux, you can try prefixing the command with `sudo`
 ```shell
-  inky> $ sudo npm install --global foundation-cli
+  inky>sudo npm install --global foundation-cli
 ```
 
 3. Once the CLI is installed on your machine, it’s super easy to fire up a blank Foundation for Emails project. 
 Move into the folder you store your projects in, and then run this command:
 ```shell
-  inky> $ foundation new --framework emails
+  inky>foundation new --framework emails
 ```
 
 4. After those 3 step it will ask you to create a folder for your inky emails, In my side I created lithios folder inside the inky folder.
