@@ -29,7 +29,7 @@ Move into the folder you store your projects in, and then run this command:
   inky\lithios>npm start
 ```
 
-2. Folders will be created under the lithios project. Here's a breakdown of the files in the `src` folder:
+2. Folders will be created under the lithios project. Here's a breakdown of the files in the `src` folder:<br />
 -`assets/`: Sass and image files. <br />
 -`layouts/`: Boilerplate HTML that wraps all of your emails. <br />
 -`pages/`: HTML files for emails. <br />
