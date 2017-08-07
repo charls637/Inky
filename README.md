@@ -34,8 +34,8 @@ Move into the folder you store your projects in, and then run this command:
 -`layouts/`: Boilerplate HTML that wraps all of your emails. <br />
 -`pages/`: HTML files for emails. <br />
 -`partials/`: Reusable chunks of HTML that can be injected into pages <br />
--`dist/`: Your HTML final output, included with the assetes(image and css) <br />
 
 
+3. `dist/`: Your HTML final output, included with the assetes(image and css). This is outside the `src` folder OR located in the root of your project folder name.
 
 ##Then you're good to go! Please check the Zurb link above for file structure and coding styles.
