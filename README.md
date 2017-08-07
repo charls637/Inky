@@ -30,11 +30,12 @@ Move into the folder you store your projects in, and then run this command:
 ```
 
 2. Folders will be created under the lithios project. Here's a breakdown of the files in the `src` folder:
--`assets/`: Sass and image files.
--`layouts/`: Boilerplate HTML that wraps all of your emails.
--`pages/`: HTML files for emails.
--`partials/`: Reusable chunks of HTML that can be injected into pages
--`dist/`: Your HTML final output, included with the assetes(image and css)
+-`assets/`: Sass and image files. <br />
+-`layouts/`: Boilerplate HTML that wraps all of your emails. <br />
+-`pages/`: HTML files for emails. <br />
+-`partials/`: Reusable chunks of HTML that can be injected into pages <br />
+-`dist/`: Your HTML final output, included with the assetes(image and css) <br />
+
 
 
 ##Then you're good to go! Please check the Zurb link above for file structure and coding styles.
